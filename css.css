@@ -8,10 +8,9 @@
 
 h1{
     font-family:Big Shoulders Inline;
-    font-size:9vh;
+    font-size:6vh;
     font-weight:bold;
-    height:5rem;
-    line-height:5rem;
+    padding-top:10px;
 }
 
 .choice{
@@ -21,7 +20,7 @@ h1{
     display:flex;
     justify-content:center;
     align-items: center;
-    margin-top:3rem;
+    margin-top:4rem;
 }
 .choice:hover{
     cursor:pointer;
@@ -39,7 +38,7 @@ img{
     display:flex;
     justify-content: center;
     align-items:center;
-    gap:3rem
+    gap:4rem
 }
 
 .sc-board{
@@ -47,7 +46,7 @@ img{
     justify-content: center;
     align-items: center;
     font-size:2rem;
-    margin-top: 3rem;
+    margin-top: 4rem;
     gap:3rem;
     font-family:Big Shoulders Stencil;
 }
@@ -62,7 +61,7 @@ img{
 }
 
 .result{
-    margin-top: 4rem;
+    margin-top: 5rem;
 }
 
 
